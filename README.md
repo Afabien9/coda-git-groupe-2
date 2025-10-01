@@ -4,4 +4,8 @@ Guide de Survie Étudiant - Orléans
 
 
 
-Équipe de développement
+Équipe de développement :
+Alexis FABIEN
+Raphael CONRAR
+Alexis MATHIEU
+Achille COVES
